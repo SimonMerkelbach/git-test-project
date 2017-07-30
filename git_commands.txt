@@ -26,8 +26,20 @@ git checkout <branchname>
 git branch
 	print all branchnames and indicate which one you're on
 
+git branch -d <branchname>
+	delete local branch
+
+git push origin --delete <branchname>
+	delete remote branch
+
 git remote add origin https://github.com/<username>/<repository>.git
 	link git directory to github directory
 
 git push -u origin master
 	updates remote repository (origin was defined in 'git remote add origin <url>' with local repository to branch 'master'
+
+git pull origin master
+	update local repository from 'origin' repository branch 'master'
+
+git log
+	show commits
