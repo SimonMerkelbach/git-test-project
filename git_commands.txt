@@ -1,3 +1,5 @@
+using: http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
 for help:
 	man git-init   or   git help init
 
