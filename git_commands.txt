@@ -1,0 +1,31 @@
+for help:
+	man git-init   or   git help init
+
+
+
+git init
+	create local git repository in current working directory
+
+git status
+	show differences between directory and current branch head
+
+git add <filename>
+	add <filename> to staging
+
+git commit -m "message"
+	commit with message
+
+git checkout -b <branchname>
+	create new branch <branchname>
+
+git checkout <branchname>
+	switch to branch <branchname>
+
+git branch
+	print all branchnames and indicate which one you're on
+
+git remote add origin https://github.com/<username>/<repository>.git
+	link git directory to github directory
+
+git push -u origin master
+	updates remote repository (origin was defined in 'git remote add origin <url>' with local repository to branch 'master'
