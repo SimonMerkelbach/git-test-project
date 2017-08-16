@@ -1,1 +1,2 @@
 I'm testing branchin on GitKraken again.
+I'm testing Branching on the master branch as well
