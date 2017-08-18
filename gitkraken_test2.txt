@@ -10,3 +10,5 @@ Gonna test multiple branches branching off from each other next.
  - branch_b
  - branch_b 2
  - branch_b 3
+ - branch_c
+ - branch_c 2
