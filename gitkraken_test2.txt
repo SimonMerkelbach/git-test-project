@@ -8,3 +8,9 @@ Again testing branches, this time on VS Code with the GitHistory plugin.
 Gonna test multiple branches branching off from each other next.
  - master
  - master 2
+ - branch_a
+ - branch_b
+ - branch_b 2
+ - branch_b 3
+ - branch_c
+ - branch_c 2
