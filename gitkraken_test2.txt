@@ -6,3 +6,4 @@ Lul intentional merge conflict in master to test VS Code GitHistory.
 Again testing branches, this time on VS Code with the GitHistory plugin.
 
 Gonna test multiple branches branching off from each other next.
+ - master
