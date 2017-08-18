@@ -9,3 +9,4 @@ Gonna test multiple branches branching off from each other next.
  - branch_a
  - branch_b
  - branch_c
+ - branch_c 2
